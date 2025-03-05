@@ -1,0 +1,4 @@
+.env
+test.ts
+data.json
+*.lock
