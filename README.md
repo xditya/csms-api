@@ -1,6 +1,6 @@
 # CSMS Backend API
 
-This is the backend API for the CSMS (Cloud-based Smart Monitoring System) project. It provides endpoints for managing vending machine orders and monitoring system data.
+This is the backend API for the [CSMS (Campus Services Management System)](https://github.com/xditya/CampusServicesManagementSystem) project. It provides endpoints for managing vending machine orders and monitoring system data.
 
 ## Setup
 
